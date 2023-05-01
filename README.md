@@ -1,16 +1,10 @@
-# Advanced_Topics_in_Convex_Optimization_Project
-
-My project solutions for the course, Advanced Topics in Convex Optimization.
-
-The files Ex*.m are the ones that demonstrate the algorithms of the corresponding exercise, and can be run immediately.
-
-### Instructor
-Athanasios P. Liavas
-
-
-# Advanced Topics in Convex Optimization - Solutions
+# About
 
 This repository contains my solution implementations for the course "Advanced Topics in Convex Optimization". Each solution demonstrates an algorithm or a concept taught in the course.
+
+
+### Instructor: Athanasios P. Liavas
+
 
 ## Installation
 
