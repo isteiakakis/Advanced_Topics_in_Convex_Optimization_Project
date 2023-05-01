@@ -2,4 +2,5 @@
 
 My project solutions for the course, Advanced Topics in Convex Optimization.
 
-Instructor: Athanasios P. Liavas
+## Instructor
+Athanasios P. Liavas
