@@ -14,13 +14,12 @@ This repository contains my solution implementations for the course "Advanced To
 
 ## Installation
 
-To run these solutions, you'll need Matlab installed on your machine. Once you have Matlab, you can clone this repository using the following command in your terminal:
+To run these solutions, you'll need MATLAB installed on your machine. Once you have MATLAB, you can clone this repository using the following command in your terminal:
 
 ```bash
 git clone https://github.com/isteiakakis/Advanced_Topics_in_Convex_Optimization_Project.git
 ```
 
-Replace `username` and `repository` with your actual GitHub username and repository name.
 
 ## Usage
 
