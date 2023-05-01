@@ -2,8 +2,7 @@
 
 This repository contains my solution implementations for the course "Advanced Topics in Convex Optimization". Each solution demonstrates an algorithm or a concept taught in the course.
 
-
-#### Instructor: Athanasios P. Liavas
+### Instructor: Athanasios P. Liavas
 
 
 ## Installation
