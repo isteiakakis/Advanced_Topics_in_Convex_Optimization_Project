@@ -45,7 +45,7 @@ function [x_est, F_k] = fista(F, f_grad, lambda, L_f, x_init, F_opt, sol_tol, te
 %
 %prox_func : @(x)  where  x : float column (same length as  x_init )
 %	(Optional, not given or NaN value are equivalent) Redefines the function in
-%	the step using the promimal operator (if not given, the default function is
+%	the step using the proximal operator (if not given, the default function is
 %	the soft thresholding function; if given, lambda and L_f are not used).
 %
 %x_est : float column (same length as  x_init )
